@@ -7,6 +7,7 @@
 ## Table of Contents
 - [Careers in Data Science](#careers-in-data-science)
     - [Data Career Skills](#data-career-skills)
+    - [Data Analytics Teams](#data-analytics-teams)
 
 ## Course Objectives
 
@@ -109,3 +110,69 @@ Some examples follow:
 - Professionals working in data, business, and technology are expected to be fluent *communicators*.
 
 As you progress in your career, you will continue to learn new techniques, tools, and ways of interacting with other professionals. As you have learned, staying up to date with the latest technologies and techniques is essential for data professionals.
+
+### Data Analytics Teams
+
+Large organizations often have more data needs, requiring the creation of teams to take on projects. Teams consist of several roles, including:
+- Data Scientist
+- Data Analyst
+- Data Engineer
+- Analytic Team Manager
+- Business Intelligence Engineer
+
+**FIVE PRINCIPLES FOR DATA TEAM BUILDING**  
+
+The five principles for building a strong data team include:
+- Adaptability
+- Activation
+- Standardization
+- Accountability
+- Business Impact
+
+**Adaptability**  
+
+Organizations need to facilitate a data platform that allows open access to resources for all users. Instead of specifying specific software solutions, organizations can expand their pool of candidates by allowing individuals to integrate the tools and applications they are most comfortable and experienced with.
+
+Just as organizations need to be adaptable, those seeking opportunities in data fields should be committed to learning new skills and technologies. 
+
+**Activation**  
+
+To become more data literate, organizations should cultivate new habits and integrate them into their daily work routines. Dashboards and other accessible interfaces can help promote the use of data analysis, enabling wider usage of data analysis, promoting communication and fostering cross-departmental collaboration.
+
+**Standardization**  
+
+An organization needs to set criteria for the standardization of data practices and procedures. Standardization helps to promote best practices, and communication and transferability of information between teams.
+
+**Accountability**  
+
+Data analysis is a complex and dynamic process that requires a high level of accountability. To promote responsibility, organizations need a ‘paper trail’ that allows examination of their entire process. Accountability adds transparency, explainability, and security to data teams and projects.
+
+One way to promote accountability is to extend your ability to communicate throughout your workflow. Within data analytical projects, the transfer of ideas extends beyond individual correspondence. It also includes information in project notes, records kept within projects, and proper tagging within metadata.
+
+**Business impact**  
+
+Organizations should look at approaching data projects with the widest field of view in the planning stage. This requires a thoughtful approach including considerations beyond data analysis. Broadening the scope of an organization takes time and consistency of results. To achieve this, a data team must become a trusted resource for insight and a positive influence on an organization's decision-making process.
+
+**RACI**  
+
+*RACI* is an acronym that comes from four classifications of involvement: Responsible, Accountable, Consulted, and Informed. The RACI matrix is one of many ways that companies organize roles and responsibilities.
+
+By labeling someone to one of these four categories, the RACI matrix helps categorize their level of involvement and proximity to each task.
+
+| Level | Description | Typical Assignment |
+| --- | --- | --- | 
+| Responsible | The cross-functional team members in this role are directly responsible for performing the work necessary or make decisions that are directly related to completing a task within a project. | There can be several roles or groups responsible for this task, meaning that the responsibilities are held jointly by more than one classification. |
+| Accountable | Those assigned the accountable role within a task are given the job of approving the work performed by those ‘responsible’. As a general rule there is usually a single person in this role, often a manager, or project lead. | As a general rule there is usually a single person in this role--often a manager or project lead. |
+| Consulted | This role applies to those assigned to offer input on a task. There should be a clear and open line of two-way communication between those assigned to ‘responsible’ and ‘consulted’. Consulted individuals are sometimes referred to as Subject Matter Experts (SMEs). | There can be several people in this role. |
+| Informed | Those in this role need to be kept aware of progress and concerns of those working on a project. | These responsibilities tend to be assigned to higher levels of senior leadership. |
+
+*Caption (below): RACI matrix for data professional roles*  
+
+| Task | Business Intelligence Engineer | Data Scientist | Analytic Team Manager | Data Engineer | Chief Data Officer |
+| --- | --- | --- | --- | --- | --- |
+| Access to data | R | C | R | R | A |
+| Create models to analyze data | C | R | C | I | A |
+| Drive insights and recommendations based on data | C | R | C | I | A |
+| Ensure data compliance | C | I | C | R | A |
+
+To learn more about RACI, review [The RACI matrix: Your blueprint for project success](https://www.cio.com/article/287088/project-management-how-to-design-a-successful-raci-project-plan.html).
