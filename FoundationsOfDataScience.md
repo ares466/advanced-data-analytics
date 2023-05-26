@@ -196,3 +196,54 @@ PACE is an acronym that stands for plan, analyze, construct, and execute. Each e
 
 Regardless of where you might be within the PACE workflow, communication is essential to moving the framework through to the realization of the project.
 
+## Key Elements of Communication
+
+Over the course of a typical work day, data professionals will interact with various stakeholders through a variety of correspondence. Each interaction requires an individualized approach to ensure that your audience understands what you are trying to communicate.
+
+There are three key elements of communication:
+- Purpose: the reason why the communication is taking place
+- Sender: the person responsible for crafting the information or message
+- Receiver: the audience
+
+**TIPS for EFFECTIVE COMMUNICATION**
+
+1. **Speak the language of the audience**
+
+    Identify the needs of your audience. It is important to know the objectives of the person you are communicating with. Focusing on their needs allows you to gain insight and assess how technical the conversation should be.
+
+    Determine what the audience may know already, what they need to know, and what may go beyond their level of involvement in the project.
+    - Break down technical concepts into simpler terms
+    - Use shorter sentences so main ideas are easier to understand and remember
+    - Use direct language and minimize embellishments or unnecessary detail
+    - Pay attention to diverse backgrounds and respect the lived experiences of others
+    - Avoid jargon, acronyms, and technical buzzwords
+
+2. **Invite questions and welcome  feedback**
+
+    Feedback is essential since no single person can envision every possible perspective. Another person’s feedback offers you a great way to gather insights for your personal growth and professional excellence. By accepting the challenge that feedback and questions present, you will strengthen your own skills and help the overall project.  
+
+3. **Be the connection to the data**
+
+    You are your team’s direct connection to the insights your data offers. Your goal is to help other stakeholders understand the process and how it addresses their needs.
+    - Tell the story of the data with a compelling and cohesive narrative.
+    - Respond to questions in a timely manner.
+    - Find opportunities to address stakeholder questions.
+    - Proactively identify ways the data and tools you have access to can address the objectives of your team and drive new insights
+
+4. **Let your visualizations help tell the story**
+
+    Visual references help bring to life the details inside your data. Graphs, charts and infographics can promote general understanding. 
+    - Be sure that your visuals tell the story within the data
+    - Design visualizations for inclusivity
+    - Use labels and text to clarify, not clutter. Use fonts that are easy to read.
+    - Use high contrast, shading, and other customizations to communicate your messages clearly.
+    - Offer handouts, slides, and other material in accessible formats.
+    - Keep visualizations simple. When deciding what to include in a presentation, less is more.
+
+5. **Build positive professional relationships**
+
+    When you consider the responsibilities and objectives of others, your communication will reflect that consideration. This builds credibility and influence in your workplace and allows you to continue growing throughout your career. 
+    - Focus on what matters to your audience
+    - Invite feedback and discussion
+    - Be a trusted subject matter expert who communicates clearly and inclusively
+    - Cultivate positive interactions to strengthen working relationships and improve morale
