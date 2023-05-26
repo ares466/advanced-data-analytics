@@ -8,6 +8,7 @@
 - [Careers in Data Science](#careers-in-data-science)
     - [Data Career Skills](#data-career-skills)
     - [Data Analytics Teams](#data-analytics-teams)
+    - [RACI](#raci)
 
 ## Course Objectives
 
@@ -153,7 +154,7 @@ One way to promote accountability is to extend your ability to communicate throu
 
 Organizations should look at approaching data projects with the widest field of view in the planning stage. This requires a thoughtful approach including considerations beyond data analysis. Broadening the scope of an organization takes time and consistency of results. To achieve this, a data team must become a trusted resource for insight and a positive influence on an organization's decision-making process.
 
-**RACI**  
+### RACI  
 
 *RACI* is an acronym that comes from four classifications of involvement: Responsible, Accountable, Consulted, and Informed. The RACI matrix is one of many ways that companies organize roles and responsibilities.
 
