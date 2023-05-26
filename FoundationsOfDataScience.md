@@ -9,6 +9,7 @@
     - [Data Career Skills](#data-career-skills)
     - [Data Analytics Teams](#data-analytics-teams)
     - [RACI](#raci)
+- [PACE](#pace)
 
 ## Course Objectives
 
@@ -177,3 +178,21 @@ By labeling someone to one of these four categories, the RACI matrix helps categ
 | Ensure data compliance | C | I | C | R | A |
 
 To learn more about RACI, review [The RACI matrix: Your blueprint for project success](https://www.cio.com/article/287088/project-management-how-to-design-a-successful-raci-project-plan.html).
+
+## PACE
+
+Data professionals need structured workflows to help them manage the large number of tasks within data projects. The PACE professional workflow was designed specifically for this program to assist you in developing your professional structures and practices.
+
+PACE is an acronym that stands for plan, analyze, construct, and execute. Each element of the PACE framework represents an actionable stage in a project.
+
+<img src="./content/PaceModel.png" width="450px" />
+
+| Stage | Description | Tasks |
+| --- | --- | --- | 
+| **Plan** | Conceptualize the scope of the project and develop the steps that will guide you through the process of completing a project. | Research business ideas <br> Define the project scope <br> Develop a workflow <br> Assess project and/or stakeholder needs |
+| **Analyze** | Collect, prepare, and analyze all of the data for your project | Format database <br> Scrub data <br> Convert data into usable formats |
+| **Construct** | Build models that will allow you access to hidden relationships locked within data | Select modeling approach <br> Build models <br> Build machine learning algorithms |
+| **Execute** | Present the finding of your analysis, receive feedback, and make revisions as necessary | Share results <br> Present findings to other stakeholders <br> Address feedback |
+
+Regardless of where you might be within the PACE workflow, communication is essential to moving the framework through to the realization of the project.
+
