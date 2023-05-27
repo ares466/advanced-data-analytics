@@ -5,3 +5,4 @@
 ![Courses](./content/CoursesInCertificateGraphic.png)
 
 1. [Foundations of Data Science](./FoundationsOfDataScience.md)
+2. [Get Started with Python](./GetStartedWithPython.md)
