@@ -8,8 +8,8 @@
 - [Careers in Data Science](#careers-in-data-science)
     - [Data Career Skills](#data-career-skills)
     - [Data Analytics Teams](#data-analytics-teams)
-    - [RACI](#raci)
 - [PACE](#pace)
+- [Communication](#communication)
 
 ## Course Objectives
 
