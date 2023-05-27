@@ -247,3 +247,21 @@ There are three key elements of communication:
     - Invite feedback and discussion
     - Be a trusted subject matter expert who communicates clearly and inclusively
     - Cultivate positive interactions to strengthen working relationships and improve morale
+
+**Project Proposal**  
+
+A project proposal is a plan of action, describing what needs to be accomplished and how to achieve your intended goals and outcomes.
+
+It is important to keep project proposals updated as the scope and objectives of a project change, as well as the needs of stakeholders.
+
+Review an [example](./content/Project%20Proposal%20Example.pdf) of a project proposal.
+
+Each project proposal contains important information that a team will need to consider before work begins:
+- Project title
+- Project objective
+- Milestones
+- Tasks
+- Outcomes
+- Deliverables
+- Stakeholders
+- Estimated time
