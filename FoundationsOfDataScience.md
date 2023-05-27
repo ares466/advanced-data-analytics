@@ -155,7 +155,7 @@ One way to promote accountability is to extend your ability to communicate throu
 
 Organizations should look at approaching data projects with the widest field of view in the planning stage. This requires a thoughtful approach including considerations beyond data analysis. Broadening the scope of an organization takes time and consistency of results. To achieve this, a data team must become a trusted resource for insight and a positive influence on an organization's decision-making process.
 
-### RACI  
+**RACI**    
 
 *RACI* is an acronym that comes from four classifications of involvement: Responsible, Accountable, Consulted, and Informed. The RACI matrix is one of many ways that companies organize roles and responsibilities.
 
@@ -196,7 +196,9 @@ PACE is an acronym that stands for plan, analyze, construct, and execute. Each e
 
 Regardless of where you might be within the PACE workflow, communication is essential to moving the framework through to the realization of the project.
 
-## Key Elements of Communication
+## Communication
+
+**Key Elements of Communication**  
 
 Over the course of a typical work day, data professionals will interact with various stakeholders through a variety of correspondence. Each interaction requires an individualized approach to ensure that your audience understands what you are trying to communicate.
 
@@ -265,3 +267,11 @@ Each project proposal contains important information that a team will need to co
 - Deliverables
 - Stakeholders
 - Estimated time
+
+**Executive Summaries**  
+
+A common document called an *executive summary* is used to update decision makers who may not be directly involved in the tasks of a project. In your role as a data professional, you will often be involved in creating executive summaries. 
+
+Executive summaries are documents that collect the most important points contained in a longer plan or report. The format is designed to respect the responsibilities of decision makers and/or executives who may not have time to read and understand an entire report.
+
+Review an [example](./content/Executive%20Summary.pdf) of an executive summary.
