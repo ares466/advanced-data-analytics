@@ -6,4 +6,4 @@
 
 1. [Foundations of Data Science](./FoundationsOfDataScience.md)
 2. [Get Started with Python](./GetStartedWithPython.md)
-3. 
+3. [Go Beyond the Numbers: Translate Data into Insights](./GoBeyondNumbers.md)
